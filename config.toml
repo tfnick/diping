@@ -1,4 +1,56 @@
-baseURL = "http://example.org/"
-languageCode = "en-us"
-title = "My New Hugo Site"
-theme = "ananke"
+baseurl = "https://shuntudiping.com/"
+title = "顺涂地坪"
+theme = "hugo-creative-portfolio-theme"
+languageCode = "zh-cn"
+# Enable comments by entering your Disqus shortname
+disqusShortname = ""
+# Enable Google Analytics by entering your tracking code
+googleAnalytics = ""
+
+[params]
+  # Style options: default (pink), blue, green, pink, red, sea, violet
+  # Use custom.css for your custom styling
+  style = "default"
+  description = "顺涂地坪-让您安心的地坪施工提供商，全面咨询电话：139-2379-1586"
+  copyright = "&copy;2010 顺涂地坪"
+  sidebarAbout = [
+    "十余年地坪设计、施工、维护专业经验，您值得信任的朋友",
+    "立足深圳，服务全国，价格公道，质量过硬",
+    "咨询电话：139-2379-1586（刘经理）"
+  ]
+  # Contact page
+     # Since this template is static, the contact form uses www.formspree.io as a
+     # proxy. The form makes a POST request to their servers to send the actual
+     # email. Visitors can send up to a 1000 emails each month for free.
+     #
+     # What you need to do for the setup?
+     #
+     # - set your email address under 'email' below
+     # - upload the generated site to your server
+     # - send a dummy email yourself to confirm your account
+     # - click the confirm link in the email from www.formspree.io
+     # - you're done. Happy mailing!
+  email = "you@yoursite.com"
+
+    # Optional Matomo analytics (formerly piwik)
+      # [params.analytics.matomo]
+      #  URL = "https://stats.example.com"
+      #  ID = "42"
+      #  # Track all subdomains with "*.example.com" (Optional)
+      #  domain = "www.example.com"
+      #  # Optional integrity check hash
+      #  hash = ""
+
+  # Nav links in the side bar
+  [[params.navlinks]]
+  name = "首页"
+  url = "portfolio/"
+  home = true
+
+  [[params.navlinks]]
+  name = "关于"
+  url = "about/"
+
+  [[params.navlinks]]
+  name = "联系方式"
+  url = "contact/"
