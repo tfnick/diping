@@ -33,4 +33,4 @@ When she reached the first hills of the Italic Mountains, she had a last view ba
 
 
 
-![](assets/3fdf6fc5731f38ff0dedd25e5929bf57-20210309001149961.jpg)
+![](https://cdn.jsdelivr.net/gh/tfnick/diping/content/portfolio/assets/3fdf6fc5731f38ff0dedd25e5929bf57-20210309001149961.jpg)
