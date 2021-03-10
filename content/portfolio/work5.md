@@ -1,5 +1,5 @@
 +++
-image = "img/portfolio/yumaoqiuchang.png"
+image = "https://cdn.jsdelivr.net/gh/tfnick/diping/static/img/portfolio/yumaoqiuchang.png"
 showonlyimage = true
 draft = false
 date = "2016-11-05T19:53:42+05:30"
