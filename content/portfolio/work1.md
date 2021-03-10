@@ -1,7 +1,7 @@
 +++
 showonlyimage = true
 draft = false
-image = "img/portfolio/gongyi2.png"
+image = "https://cdn.jsdelivr.net/gh/tfnick/diping/static/img/portfolio/gongyi2.png"
 date = "2016-11-05T18:25:22+05:30"
 title = "Name of the work 1"
 weight = 0
