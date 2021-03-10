@@ -1,5 +1,5 @@
 +++
-image = "img/portfolio/lanqiuchang.png"
+image = "https://cdn.jsdelivr.net/gh/tfnick/diping/static/img/portfolio/lanqiuchang.png"
 showonlyimage = false
 date = "2016-11-05T19:44:32+05:30"
 title = "Name of the work 3"
