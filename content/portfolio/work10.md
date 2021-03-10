@@ -1,6 +1,6 @@
 +++
 draft = false
-image = "img/portfolio/gongchang.png"
+image = "https://cdn.jsdelivr.net/gh/tfnick/diping/static/img/portfolio/gongchang.png"
 showonlyimage = true
 date = "2016-11-05T20:22:08+05:30"
 title = "Item with image"
