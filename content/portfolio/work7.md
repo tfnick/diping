@@ -10,7 +10,7 @@ weight = 11
 ![福建地坪漆施工案例-篮球场](https://cdn.jsdelivr.net/gh/tfnick/diping/static/img/portfolio/lanqiuchang.png)
 
 
-客户：福建某小区自有篮球场翻新
+客户：福建某小区周边篮球场翻新
 
 施工：硅PU 
 

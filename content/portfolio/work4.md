@@ -7,7 +7,7 @@ title = "珠海地坪漆施工案例-仓库"
 weight = 7
 +++
 
-![珠海地坪漆施工案例-仓库](https://cdn.jsdelivr.net/gh/tfnick/diping/static/img/portfolio/gongchang.png)
+![珠海地坪漆施工案例-仓库](https://cdn.jsdelivr.net/gh/tfnick/diping/static/img/portfolio/cangku.png)
 
 
 客户：珠海某仓库

@@ -10,7 +10,7 @@ weight = 5
 ![长沙地坪漆施工案例-羽毛球场](https://cdn.jsdelivr.net/gh/tfnick/diping/static/img/portfolio/yumaoqiuchang.png)
 
 
-客户：长沙某公园
+客户：长沙某公园附近羽毛球场
 
 施工：硅PU 
 
