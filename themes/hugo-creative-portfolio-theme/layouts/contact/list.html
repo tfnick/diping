@@ -8,7 +8,6 @@
          {{ .Content }}
          {{ partial "social_buttons_in_contact.html" . }}
          {{ with .Site.Params.email }}
-         <h4>Drop me a line, maybe?</h4>
          <form id="contact-form" class="contact-form form" method="post" action="https://formspree.io/{{ . }}">
            <div class="controls">
              <div class="form-group">
