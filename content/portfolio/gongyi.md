@@ -4,7 +4,7 @@ showonlyimage = true
 image = "https://cdn.jsdelivr.net/gh/tfnick/diping/static/img/portfolio/gongyi2.png"
 date = "2016-11-05T19:41:01+05:30"
 title = "环氧地坪漆施工工艺"
-weight = 1
+weight = 2
 +++
 
 
