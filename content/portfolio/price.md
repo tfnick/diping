@@ -4,7 +4,7 @@ draft = false
 image = "https://cdn.jsdelivr.net/gh/tfnick/diping/static/img/portfolio/price1.png"
 date = "2016-11-05T19:44:32+05:30"
 title = "环氧地坪施工价格"
-weight = 2
+weight = 3
 +++
 
 
