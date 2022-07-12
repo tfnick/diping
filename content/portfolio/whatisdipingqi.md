@@ -1,7 +1,7 @@
 +++
 showonlyimage = true
 draft = false
-image = "https://cdn.jsdelivr.net/gh/tfnick/diping/static/img/portfolio/gongyi2.png"
+image = "https://cdn.jsdelivr.net/gh/tfnick/diping/static/img/portfolio/shenmeshihuanyangdiping.png"
 date = "2016-11-05T18:25:22+05:30"
 title = "地坪漆是什么"
 weight = 0
@@ -17,7 +17,7 @@ weight = 0
 
 地坪漆的种类很多，不同的场所使用的地坪漆也是不同的，具体的是需要看您的地面情况、根据您的要求来决定什么地坪漆是最适合于您的地面的。
 
-### 常见的地坪漆
+### 常见的地坪漆分类
 
 #### 环氧地坪漆
 
