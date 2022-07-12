@@ -4,7 +4,7 @@ draft = false
 image = "https://cdn.jsdelivr.net/gh/tfnick/diping/static/img/portfolio/shenmeshihuanyangdiping.png"
 date = "2016-11-05T18:25:22+05:30"
 title = "地坪漆是什么"
-weight = 0
+weight = 2
 
 +++
 
