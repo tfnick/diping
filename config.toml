@@ -16,7 +16,7 @@ googleAnalytics = ""
   sidebarAbout = [
     "十余年地坪设计、施工、维护专业经验，您值得信任的朋友",
     "立足深圳，服务全国，价格公道，质量过硬",
-    "咨询电话：139-2379-1586（刘经理）"
+    "咨询电话：<front style="color:red">139-2379-1586</front>（刘经理）"
   ]
   # Contact page
      # Since this template is static, the contact form uses www.formspree.io as a
