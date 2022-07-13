@@ -1,5 +1,5 @@
 baseurl = "https://shuntudiping.com/"
-title = "顺涂地坪"
+title = "顺涂地坪 - 值得信赖的地坪施工团队"
 theme = "hugo-creative-portfolio-theme"
 languageCode = "zh-cn"
 # Enable comments by entering your Disqus shortname
@@ -16,7 +16,7 @@ googleAnalytics = ""
   sidebarAbout = [
     "十余年地坪设计、施工、维护专业经验，您值得信任的朋友",
     "立足深圳，服务全国，价格公道，质量过硬",
-    "咨询电话：<front style="color:red">139-2379-1586</front>（刘经理）"
+    "咨询电话：<span style="color:red">139-2379-1586</span>（刘经理）"
   ]
   # Contact page
      # Since this template is static, the contact form uses www.formspree.io as a
