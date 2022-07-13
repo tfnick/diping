@@ -36,7 +36,7 @@ weight = 2
 
 #### 环氧地坪施工工艺
 
-![环氧地坪漆施工工艺](https://cdn.jsdelivr.net/gh/tfnick/diping/static/img/portfolio/shigonggongyi.png)
+![环氧地坪漆施工工艺](https://cdn.jsdelivr.net/gh/tfnick/diping/static/img/portfolio/shigonggongyi.jpeg)
 
 
 #### 涂饰强渗封闭涂料
