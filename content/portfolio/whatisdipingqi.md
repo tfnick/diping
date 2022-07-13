@@ -3,13 +3,13 @@ showonlyimage = true
 draft = false
 image = "https://cdn.jsdelivr.net/gh/tfnick/diping/static/img/portfolio/shenmeshihuanyangdiping.png"
 date = "2016-11-05T18:25:22+05:30"
-title = "地坪漆是什么"
+title = "地坪漆是什么？"
 weight = 1
 
 +++
 
 
-### 什么是地坪漆
+### 地坪漆是什么？
 
 地坪漆最早是由德国于1934年发明，主要是由油料、树料、颜色、溶剂等制成，主要分为装饰性地坪漆、重防腐地坪漆、耐重载地坪漆等。地坪漆由多种不同物质经混合、溶解、分散等许多道生产工艺制造而组成。地坪漆具有亮丽、真实、美观、耐磨、防水、防腐等特点。
 
